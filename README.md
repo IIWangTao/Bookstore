@@ -1,7 +1,7 @@
 # bookstore
 ## 这是一个书城类的网站
 ### 1.可以通过我的[github](https://github.com/IIWangTao/Project.github.io)下载，放在本地的服务器里，并打开服务器
-![](http://a2.qpic.cn/psb?/V11qI0BQ26Ocim/wUBUucTYyExGhY.zfK9bv*.6OS3Pm75VHhz.MnX0f3E!/b/dLIAAAAAAAAA&bo=kQHNAAAAAAADB38!&rf=viewer_4)
+![](http://a3.qpic.cn/psb?/V11qI0BQ26Ocim/thWIKvTmj8koSNtJo.LchGhIZfRozajW57eTd46pZrE!/b/dB8BAAAAAAAA&bo=YAGXAAAAAAADB9Q!&rf=viewer_4)
 ### 2.打开数据库，点击new，创建一个mybook的数据库
 ![](http://a3.qpic.cn/psb?/V11qI0BQ26Ocim/0XqX1SzSaFkLP72Levhkb4bwmxyWj9AKS6oJJRrEvTM!/b/dB8BAAAAAAAA&bo=rAGWAQAAAAABBxo!&rf=viewer_4)
 ![](http://a1.qpic.cn/psb?/V11qI0BQ26Ocim/Y8QkbHSoXOwW36NEyZj8QbXoExChMWcpbclYpABoAmQ!/b/dCABAAAAAAAA&bo=aAYMAgAAAAABAEc!&rf=viewer_4)
